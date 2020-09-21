@@ -1,0 +1,13 @@
+D:\Repositories\WpfApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+D:\Repositories\WpfApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+D:\Repositories\WpfApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+D:\Repositories\WpfApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\Repositories\WpfApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.ViewModels.HSKVocabScanner.resources
+D:\Repositories\WpfApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Repositories\WpfApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Repositories\WpfApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+D:\Repositories\WpfApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+D:\Repositories\WpfApp1\WindowsFormsApp1\bin\Release\Data\hskvocablist1.txt
+D:\Repositories\WpfApp1\WindowsFormsApp1\bin\Release\Data\hskvocablist2.txt
+D:\Repositories\WpfApp1\WindowsFormsApp1\bin\Release\Data\hskvocablist3.txt
+D:\Repositories\WpfApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
